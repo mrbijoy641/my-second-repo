@@ -8,3 +8,6 @@ h2{
     background: burlywood;
     text-align: center;
 }
+img{
+    max-width: 100%;
+}
